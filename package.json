@@ -1,0 +1,31 @@
+{
+  "name": "multilanguage-country-service",
+  "version": "0.0.1",
+  "description": "Multilanguage country name search API for Node.js based on ISO 3166 standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seletonurb/multilanguage-country-service.git"
+  },
+  "keywords": [
+    "multilanguage",
+    "country",
+    "countries",
+    "service",
+    "ISO-3166",
+    "express",
+    "expressjs"
+  ],
+  "author": "Bruno Teles <seletonurb@gmail.com> (https://github.com/seletonurb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seletonurb/multilanguage-country-service/issues"
+  },
+  "homepage": "https://github.com/seletonurb/multilanguage-country-service#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
