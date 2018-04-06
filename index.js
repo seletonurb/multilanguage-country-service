@@ -49,7 +49,7 @@
   /**
    * Populates country object from country code.
    */
-  searchCountryService.populateCountry = function(country) {
+  searchCountryService.populateCountry = function(country, language) {
     var result;
 
     if (!(country || country.code)) {
